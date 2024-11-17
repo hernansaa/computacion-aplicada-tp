@@ -3,7 +3,7 @@
 FECHA=$(date +%Y%m%d)
 # DIRECTORIOS_ORIGEN="${@:2}"
 DIRECTORIOS_ORIGEN="/root /etc /opt /var /www_dir /backup_dir"
-DIRECTORIO_DESTINO="/git"
+DIRECTORIO_DESTINO="/git/computacion-aplicada-tp"
 
 
 # Chequea que el directorio de destino exista.
