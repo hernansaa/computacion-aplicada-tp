@@ -11,4 +11,5 @@
 ```
 cat var_entrega_20241117_parte_* > var_entrega_20241117.tar.gz
 ```
+3) El diagrama topologico de red es el archivo "diagrama_topologico.pdf"
 
